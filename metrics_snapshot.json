@@ -1,0 +1,72 @@
+{
+  "synthetic_data": true,
+  "seed": 261119,
+  "row_counts": {
+    "zones": 8,
+    "riders": 400,
+    "drivers": 80,
+    "vehicle_types": 4,
+    "vehicles": 100,
+    "trips": 1200,
+    "fare_details": 1200,
+    "payments": 1200,
+    "trip_ratings": 861
+  },
+  "total_rows": 5053,
+  "cancel_rate_pct": 19.4,
+  "avg_completed_fare": 416.27,
+  "avg_rating": 4.25,
+  "avg_completed_distance_km": 14.84,
+  "monthly_trips": [
+    {
+      "month": "2026-01",
+      "trips": 116
+    },
+    {
+      "month": "2026-02",
+      "trips": 134
+    },
+    {
+      "month": "2026-03",
+      "trips": 105
+    },
+    {
+      "month": "2026-04",
+      "trips": 135
+    },
+    {
+      "month": "2026-05",
+      "trips": 120
+    },
+    {
+      "month": "2026-06",
+      "trips": 111
+    },
+    {
+      "month": "2026-07",
+      "trips": 113
+    },
+    {
+      "month": "2026-08",
+      "trips": 110
+    },
+    {
+      "month": "2026-09",
+      "trips": 115
+    },
+    {
+      "month": "2026-10",
+      "trips": 141
+    }
+  ],
+  "zone_trip_counts": {
+    "Hebbal": 184,
+    "Jayanagar": 159,
+    "MG Road": 156,
+    "HSR Layout": 146,
+    "Electronic City": 143,
+    "Koramangala": 141,
+    "Whitefield": 139,
+    "Indiranagar": 132
+  }
+}
